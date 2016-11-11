@@ -266,7 +266,7 @@ footer .theme-by p{
   display:hidden;
 }
 footer .theme-by p a{
-  display:hidden;
+  color:#F5F5F5;
 }
 
 @media only screen and (min-width: 768px) {
