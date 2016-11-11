@@ -262,6 +262,9 @@ footer .theme-by {
   margin: 10px 0 0;
   color:#F5F5F5;
 }
+footer .theme-by p{
+  display:hidden;
+}
 
 @media only screen and (min-width: 768px) {
   footer {
